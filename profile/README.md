@@ -23,7 +23,7 @@ Whether you're a beginner or an experienced maker, there's a place for you in ou
 
 ## 📧 Contact Us
 Have questions or want to get involved? Reach out to us:
-- **Email**: emailn/a@example.com
+- **Email**: email404@example.com
 
 ---
 
