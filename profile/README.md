@@ -16,7 +16,7 @@ At GHCIS Maker Club, we:
 
 ## 🛠️ Projects
 Here's a glimpse of some of our ongoing and completed projects:
-- **💡 N/A
+- ** 💡 Let's wait for some awesome projects!
 
 ## 🌍 Join Us!
 Whether you're a beginner or an experienced maker, there's a place for you in our club. Join us and be part of an amazing community of creators.
