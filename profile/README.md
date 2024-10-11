@@ -21,6 +21,8 @@ Here's a glimpse of some of our ongoing and completed projects:
 ## 🌍 Join Us!
 Whether you're a beginner or an experienced maker, there's a place for you in our club. Join us and be part of an amazing community of creators.
 
+Our club day: Every Monday at ZX204 Computer Room
+
 ## 📧 Contact Us
 Have questions or want to get involved? Reach out to us:
 - **Email**: kyzang@ghedu.com
