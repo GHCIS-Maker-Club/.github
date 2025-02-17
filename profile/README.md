@@ -15,13 +15,13 @@ At GHCIS Maker Club, we:
 - 🗣️ Participate in maker fairs and hackathons to showcase our work.
 
 ## 🛠️ Projects
-Here's a glimpse of some of our ongoing and completed projects:
-- 💡 Let's wait for some awesome projects! 
+
+
 
 ## 🌍 Join Us!
 Whether you're a beginner or an experienced maker, there's a place for you in our club. Join us and be part of an amazing community of creators.
 
-Our club day: Every Monday at ZX204 Computer Room
+Our club day: Every Monday at Guanghua Middle School. Contact us for more info.
 
 ## 📧 Contact Us
 Have questions or want to get involved? Reach out to us:
