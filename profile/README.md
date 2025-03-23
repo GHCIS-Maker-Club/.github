@@ -1,6 +1,6 @@
 # 🎉 Welcome to GHCIS Maker Club!
 
-2025.3.19: We were a one star🌟 club now!
+2025.3.19: We are a one star🌟 club now!
 
 Welcome to the **GHCIS Maker Club** GitHub repository! This is the central hub for all our creative and innovative projects. We're a group of passionate makers, tinkerers, and tech enthusiasts who love to build, learn, and share.
 
